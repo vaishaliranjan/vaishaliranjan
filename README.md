@@ -41,7 +41,7 @@ Aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: I'm currently learning Data Structures and Algorithms.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishaliiranjan)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishaliiranjan)
 
 ---
 
