@@ -34,6 +34,8 @@ Glad to see you here!
 -   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
 -   💬 Ask me about **react, java, anime, games.**
+  
+-   📄 Know about me [Here](https://vaishaliranjan.netlify.app/)
 
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
 
@@ -97,7 +99,6 @@ Glad to see you here!
 ![](https://github-profile-trophy.vercel.app/?username=vaishaliranjan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-[link1]: https://drive.google.com/file/d/1HbK46IQ30giBo9pCRstxJn-2jwT89N1E/view?usp=sharing
 
 
 
