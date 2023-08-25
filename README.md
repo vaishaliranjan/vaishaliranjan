@@ -27,11 +27,11 @@ Glad to see you here!
 </h1>
 </div>
 
--   🔭 I’m currently working on **Deep Learning Project**. 
-
--   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
+-   🔭 I’m currently working on a **Deep Learning Project**.
 
 -   :zap: I'm currently learning Data Structures and Algorithms.
+
+-   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
 -   💬 Ask me about **react, java, anime, games.**
 
