@@ -3,6 +3,7 @@
     
   - 🌱 I’m currently working as SDE Intern @WatchGuardTechnologies.
   - 😄 Pronouns: She / Her
+  - Main Profile: [vaishali-wg](https://github.com/vaishali-wg)
   
   #### 📫 How to reach me:
   
